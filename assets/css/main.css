@@ -247,7 +247,7 @@ input, select, textarea {
 		letter-spacing: 0.1em;
 		line-height: 1.5;
 		margin: 0 0 1em 0;
-		text-transform: capitalize;
+		text-transform: inherit;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
