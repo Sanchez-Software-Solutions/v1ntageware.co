@@ -1480,7 +1480,7 @@ input, select, textarea {
 		-ms-user-select: none;
 		-webkit-user-select: none;
 		background: #1f2224;
-		bottom: -1em;
+		bottom: auto;
 		height: 5em;
 		left: 0;
 		line-height: 4em;
@@ -1563,7 +1563,7 @@ input, select, textarea {
 	@media screen and (max-width: 736px) {
 
 		body {
-			padding: 4em 0 0 0;
+			padding: 0 0 0 0;
 		}
 
 		#header {
