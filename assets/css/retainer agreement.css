@@ -1,0 +1,36 @@
+body {
+    margin: 5em 3em;
+    background: #1F2224;
+    color: #F5F5F5;
+    font-size: 1.2em;
+}
+
+.agreement {
+    margin: 0 auto;
+    max-width: 900px;
+}
+
+.form {
+    margin: 0 auto;
+    max-width: 650px;
+}
+
+p {
+    line-height: 2em;
+}
+
+button {
+    width: 40%;
+    height: 30px;
+    margin: 0 30%;
+}
+
+button:hover {
+    box-shadow: 0 0 10px #FF0000;
+}
+
+footer {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
